@@ -15,4 +15,4 @@
 - Predicted gesture labels were displayed on screen in real-time, with high-accuracy predictions forming sentences.
 
 
-![Workflow](https://github.com/Mondol007/Sigplanet_Webapp/blob/5f1342284328510b6f413cb3c8b82c3853f076da/Final.pdf)
+![Workflow](https://github.com/Mondol007/Sigplanet_Webapp/blob/40c97d98bf48e263d33dffd0cff7a8515983f39d/Final-1.png)
