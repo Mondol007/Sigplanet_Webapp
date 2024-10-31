@@ -1,3 +1,6 @@
+![Workflow](https://github.com/Mondol007/Sigplanet_Webapp/blob/40c97d98bf48e263d33dffd0cff7a8515983f39d/Final-1.png)
+
+
 ## **Overview:**
 - Developed a hand gesture recognition system using Mediapipe and LSTM-based deep learning for alphabet and gesture prediction in real time.
 
@@ -14,5 +17,3 @@
 ## **Results:**
 - Predicted gesture labels were displayed on screen in real-time, with high-accuracy predictions forming sentences.
 
-
-![Workflow](https://github.com/Mondol007/Sigplanet_Webapp/blob/40c97d98bf48e263d33dffd0cff7a8515983f39d/Final-1.png)
