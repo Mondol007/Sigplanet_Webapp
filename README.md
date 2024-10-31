@@ -1,5 +1,3 @@
-![Workflow Image](Final.pdf)
-
 ## **Overview:**
 - Developed a hand gesture recognition system using Mediapipe and LSTM-based deep learning for alphabet and gesture prediction in real time.
 
@@ -15,3 +13,5 @@
   
 ## **Results:**
 - Predicted gesture labels were displayed on screen in real-time, with high-accuracy predictions forming sentences.
+
+![Workflow](Final.pdf)
