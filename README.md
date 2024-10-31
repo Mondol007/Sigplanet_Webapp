@@ -1,3 +1,5 @@
+![Workflow Image](Final.pdf)
+
 ## **Overview:**
 - Developed a hand gesture recognition system using Mediapipe and LSTM-based deep learning for alphabet and gesture prediction in real time.
 
